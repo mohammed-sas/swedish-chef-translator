@@ -36,6 +36,7 @@ main{
     display: block;
     border:2px solid var(--primary-color);
     margin-top: 2rem;
+    font-family: inherit;
     
 
 }
@@ -49,6 +50,7 @@ main{
     margin: 1rem 0rem;
     cursor: pointer;
     border-radius: 1rem;
+
 }
 
 .div-output{
@@ -56,6 +58,7 @@ main{
     min-height: 10vh;
     max-height: 20vh;
     overflow: scroll;
+    font-family: inherit;
     border: 1px solid var(--primary-color);
 
 }
